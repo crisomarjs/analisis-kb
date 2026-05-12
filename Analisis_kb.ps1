@@ -1,4 +1,7 @@
-﻿### ==============================
+﻿# Desarrollado por: Cristian Omar Jiménez Sánchez
+# Github: crisomarjs
+
+### ==============================
 ### Crear carpetas si no existen
 ### ==============================
 
